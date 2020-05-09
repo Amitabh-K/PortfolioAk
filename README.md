@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Amitabh-K/PortfolioAk.svg)](http://hits.dwyl.com/Amitabh-K/PortfolioAk)
+
 # Professional Materials
 
 Now that we've had some practice with APIs and have a project to share,  updating my portfolio page and other materials to build toward being employer competitive.
