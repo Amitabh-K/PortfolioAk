@@ -12,6 +12,14 @@
 // Script for typewriter animation
 // List of sentences
 
+var _CONTENT = [
+	"👨🏻‍💻Amitabh Kumar",
+	"🚂JavaScrip,  🚃jQuery,  🚃Node.js",
+	"🚃React.js,  🚃AngularJS",  
+	"🚉MongoDB,  🚉MySQL",
+  "💽Github"
+];
+
 
 // Current sentence being processed
 var _PART = 0;
